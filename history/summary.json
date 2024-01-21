@@ -4,18 +4,20 @@
     "url": "https://admin.obl.ong/up",
     "icon": "https://icons.duckduckgo.com/ip3/admin.obl.ong.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 527,
-    "timeWeek": 523,
-    "timeMonth": 523,
-    "timeYear": 523,
-    "dailyMinutesDown": {}
+    "time": 526,
+    "timeDay": 569,
+    "timeWeek": 531,
+    "timeMonth": 526,
+    "timeYear": 526,
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   },
   {
     "name": "Landing",
