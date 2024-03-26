@@ -13,6 +13,8 @@ sites:
     url: https://forum.obl.ong
   - name: Events
     url: https://events.obl.ong
+  - name: Help
+    url: https://help.obl.ong
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -28,7 +30,7 @@ status-website:
       href: /
     - title: Home
       href: https://obl.ong/
-    - title: Manage
+    - title: Admin
       href: https://admin.obl.ong/
 
 # Upptime also supports notifications, assigning issues, and more
